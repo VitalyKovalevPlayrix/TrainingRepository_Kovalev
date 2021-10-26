@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/VitalyKovalevPlayrix/SubmoduleRepository_Kovalev.git
